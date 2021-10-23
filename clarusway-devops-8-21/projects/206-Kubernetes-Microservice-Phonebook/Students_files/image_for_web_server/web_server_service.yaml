@@ -6,9 +6,9 @@ metadata:
     name: phonebook-service 
 spec:
   type: NodePort 
+  ports:
+    - port: 80
+      targetPort: 80
+      nodePort: 30001
   selector:
     name: phonebook-app-pod
-  ports:
-      - port: 80
-        targetPort: 80
-        nodePort: 30001

@@ -12,7 +12,7 @@ spec:
   template:
     metadata:
       name: result-app-pod
-      labels:
+      labels:s
         name: result-app-pod
     spec:
       containers:
