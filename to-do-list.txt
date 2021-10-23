@@ -1,0 +1,11 @@
+1 - Create and build the images: Done 
+To do: 
+2 - Search NodePort service 
+3 - Deployment add/update/delete
+4 - add/update/delete NodePort service 
+5 - Deployment MySql server 
+6 - MySql Server ClusterIP Service 
+7 - Presistent Volume 
+8 - Config maps 
+9 - Secrets 
+10 - Deployment search : Semi done 
